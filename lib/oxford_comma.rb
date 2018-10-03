@@ -8,4 +8,4 @@ else
   array.join(" , ") + " and " + array[-1]
 end
 end
-
+end
